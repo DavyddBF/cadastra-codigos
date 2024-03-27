@@ -5,6 +5,6 @@
 
 Menu
 -------
-1 - Cadastrar
+1 - Cadastrar<br>
 2 - Listar todos
 0 - Sair
