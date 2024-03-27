@@ -68,6 +68,3 @@ function listarTodos() {
 }
 
 menu();
-
-
-//<p style="position: relative; left: 35%; top: 35%;>Davyd Ferreira</p>
